@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Jinnuo Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Post-doctoral Associate at Purdue University"
+  location         : "West Lafayette, Indiana, USA"
+  employer         : "Purdue University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/jinnuo.zhang.1/bibliography/public/"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=gvtK77UAAAAJ&hl=en"
+  email            : "zhan4717@purdue.edu"
+  researchgate     : "https://www.researchgate.net/profile/Jinnuo-Zhang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jinnuozhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1435-5702"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "GGGGino"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
