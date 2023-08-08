@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+Welcome to my personal website! I am now working as a postdoctoral research associate in the [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. My project started in August 2023. We are currently doing some research on detecting the nutrient deficiency of corn plants using the self-developed handheld hyperspectral imaging device, called [LeafSpec](https://www.leafspecllc.com/). If you are interested in our reasearch, please free feel to reach out. 
 
-Current Situation
+Pulications
 ======
-The [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+You can find my recent pulications in [here](https://jinnuozhang.github.io/publications/).
+
+Curriculum vitae(CV)
+======
+You can find my CV in [here](https://jinnuozhang.github.io/cv/).
 
 For more info
 ------
-More info
+You may find my contact information in those links on the left.
