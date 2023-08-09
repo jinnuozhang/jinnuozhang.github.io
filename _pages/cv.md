@@ -22,14 +22,13 @@ Reasearch interests
 
 Work experience
 ======
-* 2022 - present: Post-doctoral Associate
-  * Purdue University
-  * Duties included: 
+* 2022 - present: Post-doctoral Associate at Purdue University
+* Duties included: 
     * Exploring novel methods for processing hyperspectral images
     * Designing and managing greenhouse experiments and field experiments 
     * Establishing data analysis models using deep learning for plant phenotyping applications
     * Writing scientific papers
-  * Supervisor: Professor [Jian Jin](https://scholar.google.com.hk/citations?hl=en&user=rt8TzCkAAAAJ)
+* Supervisor: Professor [Jian Jin](https://scholar.google.com.hk/citations?hl=en&user=rt8TzCkAAAAJ)
 
 Skills
 ======
