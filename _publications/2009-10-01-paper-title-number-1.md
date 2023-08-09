@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Concise Cascade Methods for Transgenic Rice Seed Discrimination using Spectral Phenotyping"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-07-28
+venue: 'Plant Phenomics'
+paperurl: 'https://spj.science.org/doi/full/10.34133/plantphenomics.0071'
+citation: 'Zhang, Jinnuo, et al. "Concise Cascade Methods for Transgenic Rice Seed Discrimination using Spectral Phenotyping." Plant Phenomics 5 (2023): 0071.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Currently, the presence of genetically modified (GM) organisms in agro-food markets is strictly regulated by enacted legislation worldwide. It is essential to ensure the traceability of these transgenic products for food safety, consumer choice, environmental monitoring, market integrity, and scientific research. However, detecting the existence of GM organisms involves a combination of complex, time-consuming, and labor-intensive techniques requiring high-level professional skills. In this paper, a concise and rapid pipeline method to identify transgenic rice seeds was proposed on the basis of spectral imaging technologies and the deep learning approach. The composition of metabolome across 3 rice seed lines containing the cry1Ab/cry1Ac gene was compared and studied, substantiating the intrinsic variability induced by these GM traits. Results showed that near-infrared and terahertz spectra from different genotypes could reveal the regularity of GM metabolic variation. The established cascade deep learning model divided GM discrimination into 2 phases including variety classification and GM status identification. It could be found that terahertz absorption spectra contained more valuable features and achieved the highest accuracy of 97.04% for variety classification and 99.71% for GM status identification. Moreover, a modified guided backpropagation algorithm was proposed to select the task-specific characteristic wavelengths for further reducing the redundancy of the original spectra. The experimental validation of the cascade discriminant method in conjunction with spectroscopy confirmed its viability, simplicity, and effectiveness as a valuable tool for the detection of GM rice seeds. This approach also demonstrated its great potential in distilling crucial features for expedited transgenic risk assessment.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://spj.science.org/doi/epdf/10.34133/plantphenomics.0071)

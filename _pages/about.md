@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm currently serving as a postdoctoral research associate in the [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. My project, which began in August 2023, is focused on the detection of nutrient deficiencies in corn plants.To achieve this, we're utilizing an innovative handheld hyperspectral imaging device known as [LeafSpec](https://www.leafspecllc.com/). Our research is at the cutting edge of plant phenotyping, and we are excited about the potential applications of this technology. If our research piques your interest, please feel free to reach out. I'd love to hear from you!
+Hello there, welcome to my personal website! My name is Jinnuo Zhang. I'm currently serving as a postdoctoral research associate in the [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. My project, which began in August 2023, is focused on the detection of nutrient deficiencies in corn plants. To achieve this, we're utilizing an innovative handheld hyperspectral imaging device known as [LeafSpec](https://www.leafspecllc.com/). Our research is at the cutting edge of plant phenotyping, and we are excited about the potential applications of this technology. If our research piques your interest, please feel free to reach out. I'd love to hear from you!
 
 For more info
 ------
