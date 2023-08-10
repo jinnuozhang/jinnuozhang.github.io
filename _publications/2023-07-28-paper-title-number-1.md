@@ -1,7 +1,7 @@
 ---
 title: "Concise Cascade Methods for Transgenic Rice Seed Discrimination using Spectral Phenotyping"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-07-28-paper-title-number-1
 excerpt: ''
 date: 2023-07-28
 venue: 'Plant Phenomics'
