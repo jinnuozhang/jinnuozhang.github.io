@@ -15,6 +15,9 @@ For more info
 You can find my recent [pulications](https://jinnuozhang.github.io/publications/) and [CV](https://jinnuozhang.github.io/cv/) online. If you would like more information about my scientific research, you can use the links on the left to contact me. Thank you!
 
 
+<img align="center" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
+
+
 
   
 
