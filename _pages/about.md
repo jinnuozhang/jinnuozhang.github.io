@@ -18,8 +18,8 @@ You can find my recent [pulications](https://jinnuozhang.github.io/publications/
 <img align="center" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
 
 
-
-<!-- modify this form HTML and place wherever you want your form -->
+Contact me
+------
 <form
   action="https://formspree.io/f/mjvqrlyy"
   method="POST"
