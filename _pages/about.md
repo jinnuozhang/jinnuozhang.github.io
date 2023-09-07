@@ -19,5 +19,20 @@ You can find my recent [pulications](https://jinnuozhang.github.io/publications/
 
 
 
-  
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mjvqrlyy"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
