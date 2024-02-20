@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-10-01-paper-title-number-7
 excerpt: ''
 date: 2018-10-01
-venue: 'Applied Sciences'
+venue: 'Applied Sciences-Basel'
 paperurl: 'https://www.mdpi.com/2076-3417/8/10/1793'
 citation: 'Zhang, Jinnuo, et al. "Identification of hybrid okra seeds based on near-infrared hyperspectral imaging technology." Applied Sciences 8.10 (2018): 1793.'
 ---
