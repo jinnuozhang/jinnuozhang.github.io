@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, welcome to my personal website! My name is Jinnuo Zhang. I have officially finished my postdoctoral reaseach in [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. It was a wonderful experience and I learned a lot. I am currently working as a associate professor in college of Agronomy at [Shandong Agricultural University](https://english.sdau.edu.cn/). Now My research focus on the study of smart agriculture and relevant technology development. I am so grateful for the opportunity to continue work in this field. In the next step, I am going to build my own research team and working on developing methods to precisely manage the crop nutirent supply. If my research goal meets your interest, please feel free to reach out. I'd love to hear from you!
+Hello there, welcome to my personal website! My name is Jinnuo Zhang. I have officially finished my postdoctoral reaseach in [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. It was a wonderful experience and I learned a lot. I am currently working as a associate professor in college of Agronomy at [Shandong Agricultural University](https://english.sdau.edu.cn/). Now, my research focus on the study of smart agriculture and relevant technology development. I am so grateful for the opportunity to continue work in this field. In the next step, I am going to build my own research team and working on developing methods to precisely manage the crop nutirent supply. If my research goal meets your interest, please feel free to reach out. I'd love to hear from you!
 
 For more info
 ------
