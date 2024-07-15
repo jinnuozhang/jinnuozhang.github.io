@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, welcome to my personal website! My name is Jinnuo Zhang. I'm currently serving as a postdoctoral research associate in the [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. My project, which began in August 2023, is focused on the detection of nutrient deficiencies in corn plants. To achieve this, we're utilizing an innovative handheld hyperspectral imaging device known as [LeafSpec](https://www.leafspecllc.com/). Our research is at the cutting edge of plant phenotyping, and we are excited about the potential applications of this technology. If our research piques your interest, please feel free to reach out. I'd love to hear from you!
+Hello there, welcome to my personal website! My name is Jinnuo Zhang. I have officially finished my postdoctoral reaseach in [ABE Plant Sensor Lab](https://engineering.purdue.edu/ABEPlantSensorLab) at Purdue University. It was a wonderful experience and I learned a lot. I am currently working as a associate professor in college of Agronomy at [Shandong Agricultural University](https://english.sdau.edu.cn/). Now My research focus on the study of smart agriculture and relevant technology development. I am so grateful for the opportunity to continue work in this field. In the next step, I am going to build my own research team and working on developing methods to precisely manage the crop nutirent supply. If my research goal meets your interest, please feel free to reach out. I'd love to hear from you!
 
 For more info
 ------
 You can find my recent [pulications](https://jinnuozhang.github.io/publications/) and [CV](https://jinnuozhang.github.io/cv/) online. If you would like more information about my scientific research, you can use the links on the left to contact me. Thank you!
 
 
-<img align="center" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
+<!-- <img align="center" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/> -->
 
 
 Contact me
