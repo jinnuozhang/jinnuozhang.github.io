@@ -1,0 +1,13 @@
+---
+title: "A high-precision spatial and spectral imaging solution for accurate corn nitrogen content level prediction at early vegetative growth stages"
+collection: publications
+permalink: /publication/2025-03-01-paper-title-number-8
+excerpt: ''
+date: 2025-03-01
+venue: 'Computers and Electronics in Agriculture'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169925000468'
+citation: 'Zhang, Jinnuo, et al. "A high-precision spatial and spectral imaging solution for accurate corn nitrogen content level prediction at early vegetative growth stages." Computers and Electronics in Agriculture 230 (2025): 109940.'
+---
+Accurate assessment of corn nitrogen content level is beneficial for corn growers to make informed fertilizing decisions to save costs and optimize yields. Hyperspectral imaging technology has been shown to be capable of profiling plant’s physiological statuses in a rapid and noninvasive way. However, the spatial variance of the hyperspectral signal across the leaf has rarely been analyzed. In this study, leveraging the feature extraction ability of deep learning models, both the spatial and spectral information collected with the handheld hyperspectral transmittance imager, LeafSpec, were integrated to predict the corn plant’s nitrogen content level at early vegetative growth stages from V8 to V10. The collected leaf transmittance images from three experimental rounds and two fields were used to test the robustness of the developed model. At first, several key wavelengths were selected based on linear kernel support vector machine to reduce redundancy in the spectral domain. Then, multiple deep learning models with varying fine-tuning strategies were deployed to build the connection between leaf hyperspectral images and their nitrogen content level. One of the fully fine-tuning deep learning models, DenseNet20, properly made use of the potential inside the spatial and spectral features. It achieved a nitrogen content level classification accuracy rate of 92.11% in round-to-round prediction and 95.00% in field-to-field verification, respectively. Class activation maps of the deep learning model also provided novel insights into the leaf spatial-spectral patterns. Overall, this research successfully shows that the application of the spatial-spectral signals on the corn leaf’s hyperspectral image is able to better predict the nitrogen content level.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0168169925000468)
