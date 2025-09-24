@@ -1,0 +1,19 @@
+leader:
+  name: "张三"
+  position: "团队负责人"
+  email: "xxxxxx@example.com"
+  avatar: "/assets/images/team/zhangsan.jpg"
+  bio: "博xxxxx"
+
+members:
+  - name: "李四"
+    position: "博士研究生"
+    email: "lisi@example.com"
+    avatar: "/assets/images/team/lisi.jpg"
+    bio: "研究方向：xxxxx"
+    
+  - name: "王五"
+    position: "硕士研究生"
+    email: "wangwu@example.com"
+    avatar: "/assets/images/team/wangwu.jpg"
+    bio: "研究方向：xxxxxx"

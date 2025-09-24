@@ -1,0 +1,63 @@
+---
+layout: page
+title: "团队介绍"
+permalink: /team/
+---
+
+<div class="team-container">
+  <!-- 团队介绍部分 -->
+  <div class="team-header">
+    <div class="team-icon-section">
+      <img src="/assets/images/team/icons/team-icon.svg" alt="团队图标" class="team-icon">
+    </div>
+    <div class="team-intro">
+      <h2>我们的团队</h2>
+      <p class="team-description">
+        我们是一支充满激情的研究团队，致力于推动科技创新和学术发展。
+        团队成员来自不同背景，共同致力于前沿技术研究和应用开发。
+        我们秉持开放、协作、创新的理念，欢迎有志之士加入我们。
+      </p>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 团队负责人部分 -->
+  <div class="leader-section">
+    <div class="leader-avatar">
+      <img src="{{ site.data.team.leader.avatar }}" alt="{{ site.data.team.leader.name }}" class="avatar-img">
+    </div>
+    <div class="leader-info">
+      <h2>{{ site.data.team.leader.name }}</h2>
+      <p class="position">{{ site.data.team.leader.position }}</p>
+      <p class="email">
+        <a href="mailto:{{ site.data.team.leader.email }}">{{ site.data.team.leader.email }}</a>
+      </p>
+      <p class="bio">{{ site.data.team.leader.bio }}</p>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 团队成员部分 -->
+  <div class="members-section">
+    <h2>团队成员</h2>
+    <div class="members-grid">
+      {% for member in site.data.team.members %}
+      <div class="member-card">
+        <div class="member-avatar">
+          <img src="{{ member.avatar }}" alt="{{ member.name }}" class="avatar-img">
+        </div>
+        <div class="member-info">
+          <h3>{{ member.name }}</h3>
+          <p class="position">{{ member.position }}</p>
+          <p class="email">
+            <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+          </p>
+          <p class="bio">{{ member.bio }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
